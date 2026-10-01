@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#2D080E" stroke="#D4AF37" stroke-width="4"/>
+  <circle cx="50" cy="50" r="42" fill="none" stroke="#D4AF37" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" font-family="Cinzel, Georgia, serif" font-weight="bold" font-size="42" fill="#D4AF37">A</text>
+</svg>
